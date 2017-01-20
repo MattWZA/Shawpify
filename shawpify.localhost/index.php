@@ -59,7 +59,7 @@
 				</ul>
 				<form class="nav navbar-form navbar-right">
 					<div class="input-group">
-						<input type="text" class="form-control" placeholder="Search for a product" /></li>
+						<input type="text" class="form-control" placeholder="Search for a product" />
 						<span class="input-group-btn">
 							<button type="submit" class="btn btn-default"><span class="glyphicon glyphicon-search"></span></button>
 						</span>
@@ -82,8 +82,8 @@
 	</main>
 	
 	<!--Footer-->
-	<nav class="navbar navbar-inverse navbar-fixed-bottom">
-		<footer>
+	<footer>
+		<nav class="navbar navbar-inverse navbar-fixed-bottom">
 			<div class="container-fluid">
 				<div class="navbar-header">
 					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menuFoot">
@@ -93,7 +93,7 @@
 				</div>
 				<div id="menuFoot" class="collapse navbar-collapse">
 					<ul class="nav navbar-nav">
-						<li><span class="navbar-text">Copyright &copy Shaw Academy</span></li>
+						<li><span class="navbar-text">Copyright &copy; Shaw Academy</span></li>
 						<li><a href="https://www.facebook.com" target="_blank"><i class="fa fa-facebook"></i></a></li>
 						<li><a href="https://plus.google.com" target="_blank"><i class="fa fa-google"></i></a></li>
 						<li><a href="https://www.twitter.com" target="_blank"><i class="fa fa-twitter"></i></a></li>
@@ -104,8 +104,8 @@
 					</ul>
 				</div>
 			</div>
-		</footer>
-	</nav>
+		</nav>		
+	</footer>
 
     <!--JQuery-->
 	<script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
