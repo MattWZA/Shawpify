@@ -1,26 +1,20 @@
-@screen-sm: 767px;
-
-html{
-	overflow-y: scroll;	
-}
-
 body{
-	margin-top: 70px;
-	margin-bottom: 70px;
+	margin: 70px 0;
+	overflow-y: scroll;
 }
 
-footer {
-	& > .navbar {
-		margin-bottom: 0;
+footer{
+	.navbar-toggle{
+		color: #fff;
+		& .collapsed
+		{
+			& .glyphicon-chevron-down{
+				disply: auto;
+			}
+			& .glyphicon-chevron-up{
+				disply: none;
+			}
+		}
 	}
-}
-
-/* Phone size screen */
-@media screen and (max-width: @screen-sm) {
-	.navbar-fixed-bottom{
-		position: relative;		
-	}
-    body {
-        margin-bottom: 0;
-    }
+	
 }
