@@ -8,7 +8,7 @@
     <title>Shawpify demo site</title>
 
     <!--Bootstrap CSS-->
-		<link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css' integrity='sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u' crossorigin='anonymous'>
+	<link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css' integrity='sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u' crossorigin='anonymous'>
 	
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -79,11 +79,123 @@
 	<!--Body-->
 	<main>
 		<div class='container'>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse velit ligula, cursus at consectetur et, laoreet aliquet leo. Praesent tincidunt nisl sit amet erat egestas molestie bibendum eu nunc. Aenean porttitor dui eleifend lacus consequat rutrum nec vel est. Sed et sodales felis. Vivamus dignissim neque est, quis gravida diam aliquet id. Morbi id efficitur tellus. In at nibh id urna dictum suscipit sed eu justo.</p>
+			<div class='row'>
 
-			<p>Mauris porttitor dolor nec sapien mattis, vel auctor neque suscipit. Ut ullamcorper, nunc at dignissim pretium, arcu arcu condimentum ante, sed scelerisque leo augue sit amet sapien. Phasellus ut tortor fringilla, dapibus nisl a, dignissim lorem. Ut suscipit nisl sem, eu rutrum justo ultrices et. Cras condimentum erat eget justo facilisis, in efficitur arcu volutpat. Sed quis interdum nisl, ac malesuada lorem. Phasellus porttitor scelerisque ligula, at maximus ex hendrerit ac. Proin metus nisi, egestas at auctor ac, commodo sit amet augue. Duis rutrum dolor hendrerit quam rhoncus, in ornare sem finibus. Ut enim enim, vehicula id sodales eget, molestie et enim. Nunc vel ullamcorper enim, at pulvinar lorem.</p>
+				<div class='col-md-3'>
+					<p class="lead">Product Range</p>
+					
+					<p>Computers</p>
+					<div class="list-group">
+						<a href="#" class="list-group-item">Category 1</a>
+						<a href="#" class="list-group-item">Category 2</a>
+						<a href="#" class="list-group-item">Category 3</a>
+					</div>
+					
+					<p>Cars</p>
+					<div class="list-group">
+						<a href="#" class="list-group-item">Category 4</a>
+						<a href="#" class="list-group-item">Category 5</a>
+						<a href="#" class="list-group-item">Category 6</a>
+					</div>
+				</div>
 
-			<p>Aenean id mi non odio posuere pharetra posuere et massa. Phasellus id finibus purus. Aliquam pretium convallis nibh, vitae lobortis felis maximus eu. Nunc ac lorem finibus, sollicitudin turpis vestibulum, varius eros. Integer scelerisque scelerisque nulla ac egestas. Etiam ultrices purus maximus pharetra ornare. Vestibulum tempor elementum ex, sed pulvinar orci. Nullam lorem massa, suscipit in auctor at, tincidunt sit amet libero. Etiam rutrum dui ligula, suscipit vehicula tellus pharetra ut. Aenean ut leo quis turpis vulputate convallis sit amet et elit. Mauris efficitur sit amet mi nec convallis. Suspendisse in vestibulum quam, eget laoreet nisl. Duis pellentesque nisl in fermentum condimentum. Fusce eget ullamcorper urna, id aliquam tortor.</p>
+				<div class="col-md-9">
+					<div class="row carousel-holder">
+						<div class="col-md-12">
+							<!--Carousel-->
+							<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+								<ol class="carousel-indicators">
+									<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+									<li data-target="#carousel-example-generic" data-slide-to="1" class="active"></li>
+									<li data-target="#carousel-example-generic" data-slide-to="2" class="active"></li>
+								</ol>
+								<div class="carousel-inner text-center">
+									<div class="item active">
+										<img class="slide-image img-responsive center-block" src="img/car1.jpg" alt="Red car" >
+									</div>
+									<div class="item">
+										<img class="slide-image img-responsive center-block" src="img/car2.png" alt="Black car" >
+									</div>
+									<div class="item">
+										<img class="slide-image img-responsive center-block" src="img/car3.png" alt="Purple car" >
+									</div>
+								</div>
+								<a class='left carousel-control' href='#carousel-example-generic' data-slide='prev'><span class='glyphicon glyphicon-chevron-left'></a>
+
+								<a class='right carousel-control' href='#carousel-example-generic' data-slide='next'><span class='glyphicon glyphicon-chevron-right'></a>
+							</div>
+
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+			<!--Thumbnails-->
+				<div class="col-md-4">
+					<div class="thumbnail">
+						<img src='http://placehold.it/320x150' alt='Thumbnail Image'>
+						<div class="caption">
+							<h4 class="pull-right">$35,000</h4>
+							<h4><a href="#carousel-example-generic" data-slide-to='0'>A Product</a></h4>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam enim odio, accumsan non ex at, fermentum lacinia urna.</p>
+						</div>
+						<div class="ratings">
+							<p class="pull-right">15 reviews</p>
+							<p>
+								<span class="glyphicon glyphicon-star"></span>
+								<span class="glyphicon glyphicon-star"></span>
+								<span class="glyphicon glyphicon-star"></span>
+								<span class="glyphicon glyphicon-star"></span>
+								<span class="glyphicon glyphicon-star-empty"></span>
+							</p>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-md-4">
+					<div class="thumbnail">
+						<img src='http://placehold.it/320x150' alt='Thumbnail Image'>
+						<div class="caption">
+							<h4 class="pull-right">$35,000</h4>
+							<h4><a href="#carousel-example-generic" data-slide-to='1'>A Product</a></h4>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam enim odio, accumsan non ex at, fermentum lacinia urna.</p>
+						</div>
+						<div class="ratings">
+							<p class="pull-right">15 reviews</p>
+							<p>
+								<span class="glyphicon glyphicon-star"></span>
+								<span class="glyphicon glyphicon-star"></span>
+								<span class="glyphicon glyphicon-star"></span>
+								<span class="glyphicon glyphicon-star"></span>
+								<span class="glyphicon glyphicon-star-empty"></span>
+							</p>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-md-4">
+					<div class="thumbnail">
+						<img src='http://placehold.it/320x150' alt='Thumbnail Image'>
+						<div class="caption">
+							<h4 class="pull-right">$35,000</h4>
+							<h4><a href="#carousel-example-generic" data-slide-to='2'>A Product</a></h4>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam enim odio, accumsan non ex at, fermentum lacinia urna.</p>
+						</div>
+						<div class="ratings">
+							<p class="pull-right">15 reviews</p>
+							<p>
+								<span class="glyphicon glyphicon-star"></span>
+								<span class="glyphicon glyphicon-star"></span>
+								<span class="glyphicon glyphicon-star"></span>
+								<span class="glyphicon glyphicon-star"></span>
+								<span class="glyphicon glyphicon-star-empty"></span>
+							</p>
+						</div>
+					</div>
+				</div>
+				
+			</div>
 		</div>
 	</main>
 	
@@ -92,7 +204,9 @@
 		<nav class='navbar navbar-inverse navbar-fixed-bottom'>
 			<div class='container-fluid'>
 				<ul class='nav navbar-nav'>
-					<li class='navbar-text'>&copy Copyright <span class='thisYear'></span> Shaw Academy</li>
+					<li class='navbar-text'>
+						<?php echo "Copyright &copy; " . date("Y") . " Shaw Academy"; ?>
+					</li>
 					<li><a href='https://www.facebook.com' target='_blank'><i class='fa fa-facebook'></i></a></li>
 					<li><a href='https://plus.google.com' target='_blank'><i class='fa fa-google'></i></a></li>
 					<li><a href='https://www.twitter.com' target='_blank'><i class='fa fa-twitter'></i></a></li>
