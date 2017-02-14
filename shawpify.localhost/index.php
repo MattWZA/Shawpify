@@ -19,7 +19,7 @@
     <![endif]-->
 
 	<!--Font-Awesome-->
-	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+	<link href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet' integrity='sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN' crossorigin='anonymous'>
 	
 	<!--Custom CSS-->
 	<link rel='stylesheet' href='styles/shawpify.css'>
@@ -82,42 +82,42 @@
 			<div class='row'>
 
 				<div class='col-md-3'>
-					<p class="lead">Product Range</p>
+					<p class='lead'>Product Range</p>
 					
 					<p>Computers</p>
-					<div class="list-group">
-						<a href="#" class="list-group-item">Category 1</a>
-						<a href="#" class="list-group-item">Category 2</a>
-						<a href="#" class="list-group-item">Category 3</a>
+					<div class='list-group'>
+						<a href='#' class='list-group-item'>Category 1</a>
+						<a href='#' class='list-group-item'>Category 2</a>
+						<a href='#' class='list-group-item'>Category 3</a>
 					</div>
 					
 					<p>Cars</p>
-					<div class="list-group">
-						<a href="#" class="list-group-item">Category 4</a>
-						<a href="#" class="list-group-item">Category 5</a>
-						<a href="#" class="list-group-item">Category 6</a>
+					<div class='list-group'>
+						<a href='#' class='list-group-item'>Category 4</a>
+						<a href='#' class='list-group-item'>Category 5</a>
+						<a href='#' class='list-group-item'>Category 6</a>
 					</div>
 				</div>
 
-				<div class="col-md-9">
-					<div class="row carousel-holder">
-						<div class="col-md-12">
+				<div class='col-md-9'>
+					<div class='row carousel-holder'>
+						<div class='col-md-12'>
 							<!--Carousel-->
-							<div id="carousel" class="carousel slide" data-ride="carousel">
-								<ol class="carousel-indicators">
-									<li data-target="#carousel" data-slide-to="0" class="active"></li>
-									<li data-target="#carousel" data-slide-to="1" class="active"></li>
-									<li data-target="#carousel" data-slide-to="2" class="active"></li>
+							<div id='carousel' class='carousel slide' data-ride='carousel'>
+								<ol class='carousel-indicators'>
+									<li data-target='#carousel' data-slide-to='0' class='active'></li>
+									<li data-target='#carousel' data-slide-to='1' class='active'></li>
+									<li data-target='#carousel' data-slide-to='2' class='active'></li>
 								</ol>
-								<div class="carousel-inner text-center">
-									<div class="item active">
-										<img class="slide-image img-responsive center-block" src="img/car1.jpg" alt="Red car" >
+								<div class='carousel-inner text-center'>
+									<div class='item active'>
+										<img class='slide-image img-responsive center-block' src='img/car1.jpg' alt='Red car' >
 									</div>
-									<div class="item">
-										<img class="slide-image img-responsive center-block" src="img/car2.jpg" alt="Black car" >
+									<div class='item'>
+										<img class='slide-image img-responsive center-block' src='img/car2.jpg' alt='Black car' >
 									</div>
-									<div class="item">
-										<img class="slide-image img-responsive center-block" src="img/car3.jpg" alt="Purple car" >
+									<div class='item'>
+										<img class='slide-image img-responsive center-block' src='img/car3.jpg' alt='Purple car' >
 									</div>
 								</div>
 								<a class='left carousel-control' href='#carousel' data-slide='prev'><span class='glyphicon glyphicon-chevron-left'></a>
@@ -128,150 +128,150 @@
 						</div>
 					</div>
 
-					<div class="row">
+					<div id='products' class='row'>
 						<!--Thumbnails-->
-						<div class="col-md-4">
-							<div class="thumbnail">
+						<div class='col-md-4'>
+							<div class='thumbnail'>
 								<img src='http://placehold.it/320x150' alt='Thumbnail Image'>
-								<div class="caption">
-									<h4 class="pull-right">$35,000</h4>
-									<h4><a href="inc/productimages.php">First Product</a></h4>
+								<div class='caption'>
+									<h4 class='pull-right'>$35,000</h4>
+									<h4><a href='inc/productimages.php'>First Product</a></h4>
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam enim odio, accumsan non ex at, fermentum lacinia urna.</p>
 								</div>
-								<div class="ratings">
-									<p class="pull-right">15 reviews</p>
+								<div class='ratings'>
+									<p class='pull-right'>15 reviews</p>
 									<p>
-										<span class="glyphicon glyphicon-star"></span>
-										<span class="glyphicon glyphicon-star"></span>
-										<span class="glyphicon glyphicon-star"></span>
-										<span class="glyphicon glyphicon-star"></span>
-										<span class="glyphicon glyphicon-star-empty"></span>
+										<span class='glyphicon glyphicon-star'></span>
+										<span class='glyphicon glyphicon-star'></span>
+										<span class='glyphicon glyphicon-star'></span>
+										<span class='glyphicon glyphicon-star'></span>
+										<span class='glyphicon glyphicon-star-empty'></span>
 									</p>
 								</div>
 							</div>
 						</div>
 
-						<div class="col-md-4">
-							<div class="thumbnail">
+						<div class='col-md-4'>
+							<div class='thumbnail'>
 								<img src='http://placehold.it/320x150' alt='Thumbnail Image'>
-								<div class="caption">
-									<h4 class="pull-right">$35,000</h4>
-									<h4><a href="inc/productimages.php">Second Product</a></h4>
+								<div class='caption'>
+									<h4 class='pull-right'>$35,000</h4>
+									<h4><a href='inc/productimages.php'>Second Product</a></h4>
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam enim odio, accumsan non ex at, fermentum lacinia urna.</p>
 								</div>
-								<div class="ratings">
-									<p class="pull-right">15 reviews</p>
+								<div class='ratings'>
+									<p class='pull-right'>15 reviews</p>
 									<p>
-										<span class="glyphicon glyphicon-star"></span>
-										<span class="glyphicon glyphicon-star"></span>
-										<span class="glyphicon glyphicon-star"></span>
-										<span class="glyphicon glyphicon-star"></span>
-										<span class="glyphicon glyphicon-star-empty"></span>
+										<span class='glyphicon glyphicon-star'></span>
+										<span class='glyphicon glyphicon-star'></span>
+										<span class='glyphicon glyphicon-star'></span>
+										<span class='glyphicon glyphicon-star'></span>
+										<span class='glyphicon glyphicon-star-empty'></span>
 									</p>
 								</div>
 							</div>
 						</div>
 
-						<div class="col-md-4">
-							<div class="thumbnail">
+						<div class='col-md-4'>
+							<div class='thumbnail'>
 								<img src='http://placehold.it/320x150' alt='Thumbnail Image'>
-								<div class="caption">
-									<h4 class="pull-right">$35,000</h4>
-									<h4><a href="inc/productimages.php">Third Product</a></h4>
+								<div class='caption'>
+									<h4 class='pull-right'>$35,000</h4>
+									<h4><a href='inc/productimages.php'>Third Product</a></h4>
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam enim odio, accumsan non ex at, fermentum lacinia urna.</p>
 								</div>
-								<div class="ratings">
-									<p class="pull-right">15 reviews</p>
+								<div class='ratings'>
+									<p class='pull-right'>15 reviews</p>
 									<p>
-										<span class="glyphicon glyphicon-star"></span>
-										<span class="glyphicon glyphicon-star"></span>
-										<span class="glyphicon glyphicon-star"></span>
-										<span class="glyphicon glyphicon-star"></span>
-										<span class="glyphicon glyphicon-star-empty"></span>
+										<span class='glyphicon glyphicon-star'></span>
+										<span class='glyphicon glyphicon-star'></span>
+										<span class='glyphicon glyphicon-star'></span>
+										<span class='glyphicon glyphicon-star'></span>
+										<span class='glyphicon glyphicon-star-empty'></span>
 									</p>
 								</div>
 							</div>
 						</div>
 
-						<div class="col-md-4">
-							<div class="thumbnail">
+						<div class='col-md-4'>
+							<div class='thumbnail'>
 								<img src='http://placehold.it/320x150' alt='Thumbnail Image'>
-								<div class="caption">
-									<h4 class="pull-right">$35,000</h4>
-									<h4><a href="inc/productimages.php">Forth Product</a></h4>
+								<div class='caption'>
+									<h4 class='pull-right'>$35,000</h4>
+									<h4><a href='inc/productimages.php'>Forth Product</a></h4>
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam enim odio, accumsan non ex at, fermentum lacinia urna.</p>
 								</div>
-								<div class="ratings">
-									<p class="pull-right">15 reviews</p>
+								<div class='ratings'>
+									<p class='pull-right'>15 reviews</p>
 									<p>
-										<span class="glyphicon glyphicon-star"></span>
-										<span class="glyphicon glyphicon-star"></span>
-										<span class="glyphicon glyphicon-star"></span>
-										<span class="glyphicon glyphicon-star"></span>
-										<span class="glyphicon glyphicon-star-empty"></span>
+										<span class='glyphicon glyphicon-star'></span>
+										<span class='glyphicon glyphicon-star'></span>
+										<span class='glyphicon glyphicon-star'></span>
+										<span class='glyphicon glyphicon-star'></span>
+										<span class='glyphicon glyphicon-star-empty'></span>
 									</p>
 								</div>
 							</div>
 						</div>
 
-						<div class="col-md-4">
-							<div class="thumbnail">
+						<div class='col-md-4'>
+							<div class='thumbnail'>
 								<img src='http://placehold.it/320x150' alt='Thumbnail Image'>
-								<div class="caption">
-									<h4 class="pull-right">$35,000</h4>
-									<h4><a href="inc/productimages.php">Fith Product</a></h4>
+								<div class='caption'>
+									<h4 class='pull-right'>$35,000</h4>
+									<h4><a href='inc/productimages.php'>Fith Product</a></h4>
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam enim odio, accumsan non ex at, fermentum lacinia urna.</p>
 								</div>
-								<div class="ratings">
-									<p class="pull-right">15 reviews</p>
+								<div class='ratings'>
+									<p class='pull-right'>15 reviews</p>
 									<p>
-										<span class="glyphicon glyphicon-star"></span>
-										<span class="glyphicon glyphicon-star"></span>
-										<span class="glyphicon glyphicon-star"></span>
-										<span class="glyphicon glyphicon-star"></span>
-										<span class="glyphicon glyphicon-star-empty"></span>
+										<span class='glyphicon glyphicon-star'></span>
+										<span class='glyphicon glyphicon-star'></span>
+										<span class='glyphicon glyphicon-star'></span>
+										<span class='glyphicon glyphicon-star'></span>
+										<span class='glyphicon glyphicon-star-empty'></span>
 									</p>
 								</div>
 							</div>
 						</div>
 
-						<div class="col-md-4">
-							<div class="thumbnail">
+						<div class='col-md-4'>
+							<div class='thumbnail'>
 								<img src='http://placehold.it/320x150' alt='Thumbnail Image'>
-								<div class="caption">
-									<h4 class="pull-right">$35,000</h4>
-									<h4><a href="inc/productimages.php">Sixth Product</a></h4>
+								<div class='caption'>
+									<h4 class='pull-right'>$35,000</h4>
+									<h4><a href='inc/productimages.php'>Sixth Product</a></h4>
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam enim odio, accumsan non ex at, fermentum lacinia urna.</p>
 								</div>
-								<div class="ratings">
-									<p class="pull-right">15 reviews</p>
+								<div class='ratings'>
+									<p class='pull-right'>15 reviews</p>
 									<p>
-										<span class="glyphicon glyphicon-star"></span>
-										<span class="glyphicon glyphicon-star"></span>
-										<span class="glyphicon glyphicon-star"></span>
-										<span class="glyphicon glyphicon-star"></span>
-										<span class="glyphicon glyphicon-star-empty"></span>
+										<span class='glyphicon glyphicon-star'></span>
+										<span class='glyphicon glyphicon-star'></span>
+										<span class='glyphicon glyphicon-star'></span>
+										<span class='glyphicon glyphicon-star'></span>
+										<span class='glyphicon glyphicon-star-empty'></span>
 									</p>
 								</div>
 							</div>
 						</div>
 						
-						<div class="text-center">
-							<nav aria-label="Page navigation">
-								<ul class="pagination">
+						<div class='text-center'>
+							<nav aria-label='Page navigation'>
+								<ul class='pagination'>
 									<li>
-										<a href="#" aria-label="Previous">
-											<span aria-hidden="true">&laquo;</span>
+										<a href='#' aria-label='Previous'>
+											<span aria-hidden='true'>&laquo;</span>
 										</a>
 									</li>
-									<li><a href="#">1</a></li>
-									<li><a href="#">2</a></li>
-									<li><a href="#">3</a></li>
-									<li><a href="#">4</a></li>
-									<li><a href="#">5</a></li>
+									<li><a href='#'>1</a></li>
+									<li><a href='#'>2</a></li>
+									<li><a href='#'>3</a></li>
+									<li><a href='#'>4</a></li>
+									<li><a href='#'>5</a></li>
 									<li>
-										<a href="#" aria-label="Previous">
-											<span aria-hidden="true">&raquo;</span>
+										<a href='#' aria-label='Previous'>
+											<span aria-hidden='true'>&raquo;</span>
 										</a>
 									</li>
 								</ul>
@@ -291,7 +291,7 @@
 			<div class='container-fluid'>
 				<ul class='nav navbar-nav'>
 					<li class='navbar-text'>
-						<?php echo "Copyright &copy; " . date("Y") . " Shaw Academy"; ?>
+						<?php echo 'Copyright &copy; ' . date('Y') . ' Shaw Academy'; ?>
 					</li>
 					<li><a href='https://www.facebook.com' target='_blank'><i class='fa fa-facebook'></i></a></li>
 					<li><a href='https://plus.google.com' target='_blank'><i class='fa fa-google'></i></a></li>
