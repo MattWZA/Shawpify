@@ -8,57 +8,58 @@
 		public $rating;
 		public $images = array();
 
-		function __construct($_name, $_price, $_reviews, $_rating, $_images){
-			$this->name = $_name;
-			$this->price = $_price;
-			$this->reviews = $_reviews;
-			$this->rating = $_rating;
-			if(is_array($_images)){
-				$this->images = $_images;
+		function __construct($name, $price, $reviews, $rating, $images){
+			$this->name = $name;
+			$this->price = $price;
+			$this->reviews = $reviews;
+			$this->rating = $rating;
+			if(is_array($images)){
+				$this->images = $images;
 			} else {
 				if (isset($images)){
-					add_image($_images);
+					add_image($images);
 				}
 			}
 		}
-		function set_name($new_name){
-			$name = $new_name;
+		
+		function set_name($name){
+			$this->$name = $name;
 		}
 
 		function get_name(){
 			return $name;
 		}
 
-		function set_price($new_price){
-			$price = $new_price;
+		function set_price($price){
+			$this->$price = $price;
 		}
 
 		function get_price(){
 			return $price;
 		}
 
-		function add_image($new_image){
-			array_push($images, $new_image);
+		function add_image($image){
+			array_push($this->$images, $image);
 		}
 
-		function set_images($new_images){
-			$images = $new_images;
+		function set_images($images){
+			$this->$images = $images;
 		}
 
 		function get_images(){
 			return $images;
 		}
 
-		function set_reviews($new_reviews){
-			$reviews = $new_reviews;
+		function set_reviews($reviews){
+			$this->$reviews = $reviews;
 		}
 
 		function get_reviews(){
 			return $reviews;
 		}
 
-		function set_rating($new_rating){
-			$rating = $new_rating;
+		function set_rating($rating){
+			$this->$rating = $rating;
 		}
 
 		function get_rating(){
