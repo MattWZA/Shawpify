@@ -30,6 +30,7 @@ $(document).ready(function(){
 
 	// Load Products
 	$.getJSON('inc/products.php', function(json){
+		/*
 		$products = $('#products');
 		$products.find(".col-md-4").remove();
 		for(i=0; i<json.length; i++){
@@ -54,6 +55,7 @@ $(document).ready(function(){
 			$products.append($prod);
 							
 		}
+		*/
 
 		setClickHandlers();
 	});

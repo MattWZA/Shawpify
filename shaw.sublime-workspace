@@ -1,0 +1,1210 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"carou",
+				"carouselImages"
+			],
+			[
+				"game",
+				"gameHeight"
+			],
+			[
+				"pause",
+				"pauseUnpause"
+			],
+			[
+				"c",
+				"clientY"
+			],
+			[
+				"client",
+				"clientX"
+			],
+			[
+				"cli",
+				"clientX"
+			],
+			[
+				"ga",
+				"gameHeight"
+			],
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"button",
+				"button_large"
+			],
+			[
+				"sed",
+				"send_to"
+			],
+			[
+				"overr",
+				"override_dims"
+			],
+			[
+				"unit_",
+				"unit_descriptions"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"clie",
+				"clientY"
+			],
+			[
+				"query",
+				"query_date"
+			],
+			[
+				"qu",
+				"query_date"
+			],
+			[
+				"q",
+				"query_date"
+			],
+			[
+				"proce",
+				"processing_date"
+			],
+			[
+				"hol",
+				"holiday_list"
+			],
+			[
+				"holida",
+				"holiday_list"
+			],
+			[
+				"holi",
+				"holiday_list"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"sep",
+				"separator_pos"
+			],
+			[
+				"isn",
+				"is_null"
+			],
+			[
+				"curl_setopt",
+				"curl_setopt_array"
+			],
+			[
+				"holid",
+				"holidays"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"new_",
+				"new_member"
+			],
+			[
+				"text",
+				"text-anchor"
+			],
+			[
+				"chart",
+				"chart_width"
+			],
+			[
+				"remove",
+				"removeChild"
+			],
+			[
+				"gradient",
+				"gradient_str"
+			],
+			[
+				"grad",
+				"gradient_e"
+			],
+			[
+				"attr",
+				"attributes"
+			],
+			[
+				"gra",
+				"gradient_stops"
+			],
+			[
+				"update_",
+				"update_hbar_gradient"
+			],
+			[
+				"pars",
+				"parseInt"
+			],
+			[
+				"add",
+				"add_new_element"
+			],
+			[
+				"value_",
+				"value_e"
+			],
+			[
+				"setA",
+				"setAttribute"
+			],
+			[
+				"sv",
+				"svg_e"
+			],
+			[
+				"element",
+				"element"
+			],
+			[
+				"mas",
+				"mask_e"
+			],
+			[
+				"setAttr",
+				"setAttributeNS"
+			],
+			[
+				"ele",
+				"element"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"gen",
+				"generate_id_count"
+			],
+			[
+				"genera",
+				"generate_id_count"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"tiem",
+				"timestamp"
+			],
+			[
+				"gener",
+				"generate_id_last_timestamp"
+			],
+			[
+				"elements",
+				"elements_to_animate"
+			],
+			[
+				"ad",
+				"add_new_element"
+			],
+			[
+				"first",
+				"firstChild"
+			],
+			[
+				"rg",
+				"rgb_triple"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"border-col",
+				"border-collapse"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "[\n  {\n    \"Number\": \"COC01WCAR001   \",\n    \"Name\": \"Internal IDT Adninistration    \",\n    \"ID\": \"001            \",\n    \"Client\": \"COC01WCAR      \",\n    \"ProgrammeNumber\": \"COC01WCAR  \",\n    \"Amount\": 0,\n    \"StartDate\": \"2013-04-01T00:00:00\",\n    \"EndDate\": \"2014-03-31T00:00:00\",\n    \"StatusID\": 0,\n    \"Status\": {\n      \"StatusID\": 0,\n      \"Name\": \"Unassigned\"\n    },\n    \"StageID\": 0,\n    \"MunicipalityID\": 0,\n    \"PlaceName\": null,\n    \"Scope\": null,\n    \"Budget\": null,\n    \"Forecast\": null,\n    \"YTDActual\": null,\n    \"GPSLatitude\": null,\n    \"GPSLongitude\": null,\n    \"PASTAT\": 1,\n    \"Region\": \"WC\",\n    \"DistrictID\": 0,\n    \"DistrictName\": \"--None--\",\n    \"MunicipalityName\": \"--None--\",\n    \"Programme\": {\n      \"Number\": \"COC01WCAR  \",\n      \"Name\": \"CP EPEP Job Creation           \",\n      \"ID\": \"WCAR           \",\n      \"Amount\": 0,\n      \"StartDate\": \"2013-04-01T00:00:00\",\n      \"EndDate\": \"2014-03-31T00:00:00\",\n      \"SourceDatabase\": \"WCAP\",\n      \"StatusID\": 2,\n      \"StageID\": 5,\n      \"TypeID\": 0,\n      \"PortfolioID\": 0,\n      \"ProgrammeBudget\": 1000000,\n      \"ProgrammeScope\": \"test\",\n      \"PASTAT\": 1,\n      \"Region\": {\n        \"RegionCode\": \"WC\",\n        \"Name\": \"Western Cape\"\n      },\n      \"Portfolio\": {\n        \"PortfolioID\": 0,\n        \"Name\": \"Unassigned\"\n      },\n      \"ProgrammeType\": {\n        \"ProgrammeTypeID\": 0,\n        \"Name\": \"Unassigned\"\n      },\n      \"Status\": {\n        \"StatusID\": 2,\n        \"Name\": \"On Hold\"\n      },\n      \"Stage\": {\n        \"StageID\": 5,\n        \"Name\": \"Implementation\",\n        \"AllowProgramme\": true,\n        \"AllowProject\": true\n      },\n      \"GPStatus\": {\n        \"StatusID\": 1,\n        \"Name\": \"Open\"\n      }\n    },\n    \"Stage\": {\n      \"StageID\": 0,\n      \"Name\": \"Not Loaded\",\n      \"AllowProgramme\": true,\n      \"AllowProject\": true\n    },\n    \"GPStatus\": {\n      \"StatusID\": 1,\n      \"Name\": \"Open\"\n    }\n  },\n  {\n    \"Number\": \"COC01WCAR002   \",\n    \"Name\": \"Mtombo Development Consultants \",\n    \"ID\": \"002            \",\n    \"Client\": \"COC01WCAR      \",\n    \"ProgrammeNumber\": \"COC01WCAR  \",\n    \"Amount\": 34849696.99,\n    \"StartDate\": \"2013-04-01T00:00:00\",\n    \"EndDate\": \"2014-03-31T00:00:00\",\n    \"StatusID\": 1,\n    \"Status\": {\n      \"StatusID\": 1,\n      \"Name\": \"Open\"\n    },\n    \"StageID\": 5,\n    \"MunicipalityID\": 0,\n    \"PlaceName\": null,\n    \"Scope\": \"test\",\n    \"Budget\": null,\n    \"Forecast\": null,\n    \"YTDActual\": null,\n    \"GPSLatitude\": null,\n    \"GPSLongitude\": null,\n    \"PASTAT\": 3,\n    \"Region\": \"WC\",\n    \"DistrictID\": 0,\n    \"DistrictName\": \"--None--\",\n    \"MunicipalityName\": \"--None--\",\n    \"Programme\": {\n      \"Number\": \"COC01WCAR  \",\n      \"Name\": \"CP EPEP Job Creation           \",\n      \"ID\": \"WCAR           \",\n      \"Amount\": 0,\n      \"StartDate\": \"2013-04-01T00:00:00\",\n      \"EndDate\": \"2014-03-31T00:00:00\",\n      \"SourceDatabase\": \"WCAP\",\n      \"StatusID\": 2,\n      \"StageID\": 5,\n      \"TypeID\": 0,\n      \"PortfolioID\": 0,\n      \"ProgrammeBudget\": 1000000,\n      \"ProgrammeScope\": \"test\",\n      \"PASTAT\": 1,\n      \"Region\": {\n        \"RegionCode\": \"WC\",\n        \"Name\": \"Western Cape\"\n      },\n      \"Portfolio\": {\n        \"PortfolioID\": 0,\n        \"Name\": \"Unassigned\"\n      },\n      \"ProgrammeType\": {\n        \"ProgrammeTypeID\": 0,\n        \"Name\": \"Unassigned\"\n      },\n      \"Status\": {\n        \"StatusID\": 2,\n        \"Name\": \"On Hold\"\n      },\n      \"Stage\": {\n        \"StageID\": 5,\n        \"Name\": \"Implementation\",\n        \"AllowProgramme\": true,\n        \"AllowProject\": true\n      },\n      \"GPStatus\": {\n        \"StatusID\": 1,\n        \"Name\": \"Open\"\n      }\n    },\n    \"Stage\": {\n      \"StageID\": 5,\n      \"Name\": \"Implementation\",\n      \"AllowProgramme\": true,\n      \"AllowProject\": true\n    },\n    \"GPStatus\": {\n      \"StatusID\": 3,\n      \"Name\": \"Closed\"\n    }\n  },\n  {\n    \"Number\": \"DAC01KZNRFEE   \",\n    \"Name\": \"Management Fees                \",\n    \"ID\": \"FEE            \",\n    \"Client\": \"DAC01KZNR      \",\n    \"ProgrammeNumber\": \"DAC01KZNR  \",\n    \"Amount\": 0,\n    \"StartDate\": \"2014-04-01T00:00:00\",\n    \"EndDate\": \"2015-03-31T00:00:00\",\n    \"StatusID\": 2,\n    \"Status\": {\n      \"StatusID\": 2,\n      \"Name\": \"On Hold\"\n    },\n    \"StageID\": 7,\n    \"MunicipalityID\": 0,\n    \"PlaceName\": null,\n    \"Scope\": \"test\",\n    \"Budget\": null,\n    \"Forecast\": null,\n    \"YTDActual\": null,\n    \"GPSLatitude\": null,\n    \"GPSLongitude\": null,\n    \"PASTAT\": 1,\n    \"Region\": \"KN\",\n    \"DistrictID\": 0,\n    \"DistrictName\": \"--None--\",\n    \"MunicipalityName\": \"--None--\",\n    \"Programme\": {\n      \"Number\": \"DAC01KZNR  \",\n      \"Name\": \"eNyokeni Cultural Precint (Non \",\n      \"ID\": \"KZNR           \",\n      \"Amount\": 0,\n      \"StartDate\": \"2014-04-01T00:00:00\",\n      \"EndDate\": \"2015-03-31T00:00:00\",\n      \"SourceDatabase\": \"KZNP\",\n      \"StatusID\": 1,\n      \"StageID\": 2,\n      \"TypeID\": 1,\n      \"PortfolioID\": 1,\n      \"ProgrammeBudget\": null,\n      \"ProgrammeScope\": \"test\",\n      \"PASTAT\": 2,\n      \"Region\": {\n        \"RegionCode\": \"KN\",\n        \"Name\": \"KwaZulu-Natal\"\n      },\n      \"Portfolio\": {\n        \"PortfolioID\": 1,\n        \"Name\": \"Infrastructure Facilities\"\n      },\n      \"ProgrammeType\": {\n        \"ProgrammeTypeID\": 1,\n        \"Name\": \"Environmental Intervention\"\n      },\n      \"Status\": {\n        \"StatusID\": 1,\n        \"Name\": \"Open\"\n      },\n      \"Stage\": {\n        \"StageID\": 2,\n        \"Name\": \"Initiation\",\n        \"AllowProgramme\": true,\n        \"AllowProject\": false\n      },\n      \"GPStatus\": {\n        \"StatusID\": 2,\n        \"Name\": \"On Hold\"\n      }\n    },\n    \"Stage\": {\n      \"StageID\": 7,\n      \"Name\": \"Post Closure\",\n      \"AllowProgramme\": true,\n      \"AllowProject\": true\n    },\n    \"GPStatus\": {\n      \"StatusID\": 1,\n      \"Name\": \"Open\"\n    }\n  },\n  {\n    \"Number\": \"DAC04ECAN001   \",\n    \"Name\": \"J.L DUBE                       \",\n    \"ID\": \"001            \",\n    \"Client\": \"DAC04ECAN      \",\n    \"ProgrammeNumber\": \"DAC04ECAN  \",\n    \"Amount\": 0,\n    \"StartDate\": \"2013-04-01T00:00:00\",\n    \"EndDate\": \"2014-03-31T00:00:00\",\n    \"StatusID\": 0,\n    \"Status\": {\n      \"StatusID\": 0,\n      \"Name\": \"Unassigned\"\n    },\n    \"StageID\": 4,\n    \"MunicipalityID\": 0,\n    \"PlaceName\": null,\n    \"Scope\": \"test\",\n    \"Budget\": null,\n    \"Forecast\": null,\n    \"YTDActual\": null,\n    \"GPSLatitude\": null,\n    \"GPSLongitude\": null,\n    \"PASTAT\": 1,\n    \"Region\": \"EC\",\n    \"DistrictID\": 0,\n    \"DistrictName\": \"--None--\",\n    \"MunicipalityName\": \"--None--\",\n    \"Programme\": {\n      \"Number\": \"DAC04ECAN  \",\n      \"Name\": \"DAC HERITAGE PROGRAMME         \",\n      \"ID\": \"ECAN           \",\n      \"Amount\": 0,\n      \"StartDate\": \"2013-04-01T00:00:00\",\n      \"EndDate\": \"2014-06-20T00:00:00\",\n      \"SourceDatabase\": \"ECAP\",\n      \"StatusID\": 1,\n      \"StageID\": 2,\n      \"TypeID\": 1,\n      \"PortfolioID\": 1,\n      \"ProgrammeBudget\": null,\n      \"ProgrammeScope\": \"test\",\n      \"PASTAT\": 1,\n      \"Region\": {\n        \"RegionCode\": \"EC\",\n        \"Name\": \"Eastern Cape\"\n      },\n      \"Portfolio\": {\n        \"PortfolioID\": 1,\n        \"Name\": \"Infrastructure Facilities\"\n      },\n      \"ProgrammeType\": {\n        \"ProgrammeTypeID\": 1,\n        \"Name\": \"Environmental Intervention\"\n      },\n      \"Status\": {\n        \"StatusID\": 1,\n        \"Name\": \"Open\"\n      },\n      \"Stage\": {\n        \"StageID\": 2,\n        \"Name\": \"Initiation\",\n        \"AllowProgramme\": true,\n        \"AllowProject\": false\n      },\n      \"GPStatus\": {\n        \"StatusID\": 1,\n        \"Name\": \"Open\"\n      }\n    },\n    \"Stage\": {\n      \"StageID\": 4,\n      \"Name\": \"Procurement\",\n      \"AllowProgramme\": false,\n      \"AllowProject\": true\n    },\n    \"GPStatus\": {\n      \"StatusID\": 1,\n      \"Name\": \"Open\"\n    }\n  },\n  {\n    \"Number\": \"DCS02GAUN001   \",\n    \"Name\": \"Boksburg                       \",\n    \"ID\": \"001            \",\n    \"Client\": \"DCS02GAUN      \",\n    \"ProgrammeNumber\": \"DCS02GAUN  \",\n    \"Amount\": 4076868,\n    \"StartDate\": \"2013-04-01T00:00:00\",\n    \"EndDate\": \"2014-03-31T00:00:00\",\n    \"StatusID\": 0,\n    \"Status\": {\n      \"StatusID\": 0,\n      \"Name\": \"Unassigned\"\n    },\n    \"StageID\": 0,\n    \"MunicipalityID\": 0,\n    \"PlaceName\": null,\n    \"Scope\": null,\n    \"Budget\": null,\n    \"Forecast\": null,\n    \"YTDActual\": null,\n    \"GPSLatitude\": null,\n    \"GPSLongitude\": null,\n    \"PASTAT\": 1,\n    \"Region\": \"GP\",\n    \"DistrictID\": 0,\n    \"DistrictName\": \"--None--\",\n    \"MunicipalityName\": \"--None--\",\n    \"Programme\": {\n      \"Number\": \"DCS02GAUN  \",\n      \"Name\": \"GIAMA Audit List Phase1        \",\n      \"ID\": \"GAUN           \",\n      \"Amount\": 0,\n      \"StartDate\": \"2013-04-01T00:00:00\",\n      \"EndDate\": \"2014-03-31T00:00:00\",\n      \"SourceDatabase\": \"GAUP\",\n      \"StatusID\": 0,\n      \"StageID\": 0,\n      \"TypeID\": 0,\n      \"PortfolioID\": 0,\n      \"ProgrammeBudget\": null,\n      \"ProgrammeScope\": null,\n      \"PASTAT\": 1,\n      \"Region\": {\n        \"RegionCode\": \"GP\",\n        \"Name\": \"Gauteng\"\n      },\n      \"Portfolio\": {\n        \"PortfolioID\": 0,\n        \"Name\": \"Unassigned\"\n      },\n      \"ProgrammeType\": {\n        \"ProgrammeTypeID\": 0,\n        \"Name\": \"Unassigned\"\n      },\n      \"Status\": {\n        \"StatusID\": 0,\n        \"Name\": \"Unassigned\"\n      },\n      \"Stage\": {\n        \"StageID\": 0,\n        \"Name\": \"Not Loaded\",\n        \"AllowProgramme\": true,\n        \"AllowProject\": true\n      },\n      \"GPStatus\": {\n        \"StatusID\": 1,\n        \"Name\": \"Open\"\n      }\n    },\n    \"Stage\": {\n      \"StageID\": 0,\n      \"Name\": \"Not Loaded\",\n      \"AllowProgramme\": true,\n      \"AllowProject\": true\n    },\n    \"GPStatus\": {\n      \"StatusID\": 1,\n      \"Name\": \"Open\"\n    }\n  },\n  {\n    \"Number\": \"DCS02GAUN002   \",\n    \"Name\": \"JHB Diepkloof                  \",\n    \"ID\": \"002            \",\n    \"Client\": \"DCS02GAUN      \",\n    \"ProgrammeNumber\": \"DCS02GAUN  \",\n    \"Amount\": 5406407.93,\n    \"StartDate\": \"2013-04-01T00:00:00\",\n    \"EndDate\": \"2014-03-31T00:00:00\",\n    \"StatusID\": 0,\n    \"Status\": {\n      \"StatusID\": 0,\n      \"Name\": \"Unassigned\"\n    },\n    \"StageID\": 0,\n    \"MunicipalityID\": 0,\n    \"PlaceName\": null,\n    \"Scope\": null,\n    \"Budget\": null,\n    \"Forecast\": null,\n    \"YTDActual\": null,\n    \"GPSLatitude\": null,\n    \"GPSLongitude\": null,\n    \"PASTAT\": 1,\n    \"Region\": \"GP\",\n    \"DistrictID\": 0,\n    \"DistrictName\": \"--None--\",\n    \"MunicipalityName\": \"--None--\",\n    \"Programme\": {\n      \"Number\": \"DCS02GAUN  \",\n      \"Name\": \"GIAMA Audit List Phase1        \",\n      \"ID\": \"GAUN           \",\n      \"Amount\": 0,\n      \"StartDate\": \"2013-04-01T00:00:00\",\n      \"EndDate\": \"2014-03-31T00:00:00\",\n      \"SourceDatabase\": \"GAUP\",\n      \"StatusID\": 0,\n      \"StageID\": 0,\n      \"TypeID\": 0,\n      \"PortfolioID\": 0,\n      \"ProgrammeBudget\": null,\n      \"ProgrammeScope\": null,\n      \"PASTAT\": 1,\n      \"Region\": {\n        \"RegionCode\": \"GP\",\n        \"Name\": \"Gauteng\"\n      },\n      \"Portfolio\": {\n        \"PortfolioID\": 0,\n        \"Name\": \"Unassigned\"\n      },\n      \"ProgrammeType\": {\n        \"ProgrammeTypeID\": 0,\n        \"Name\": \"Unassigned\"\n      },\n      \"Status\": {\n        \"StatusID\": 0,\n        \"Name\": \"Unassigned\"\n      },\n      \"Stage\": {\n        \"StageID\": 0,\n        \"Name\": \"Not Loaded\",\n        \"AllowProgramme\": true,\n        \"AllowProject\": true\n      },\n      \"GPStatus\": {\n        \"StatusID\": 1,\n        \"Name\": \"Open\"\n      }\n    },\n    \"Stage\": {\n      \"StageID\": 0,\n      \"Name\": \"Not Loaded\",\n      \"AllowProgramme\": true,\n      \"AllowProject\": true\n    },\n    \"GPStatus\": {\n      \"StatusID\": 1,\n      \"Name\": \"Open\"\n    }\n  },\n  {\n    \"Number\": \"DCS02GAUN004   \",\n    \"Name\": \"Devon                          \",\n    \"ID\": \"004            \",\n    \"Client\": \"DCS02GAUN      \",\n    \"ProgrammeNumber\": \"DCS02GAUN  \",\n    \"Amount\": 1516823.74,\n    \"StartDate\": \"2013-04-01T00:00:00\",\n    \"EndDate\": \"2014-03-31T00:00:00\",\n    \"StatusID\": 0,\n    \"Status\": {\n      \"StatusID\": 0,\n      \"Name\": \"Unassigned\"\n    },\n    \"StageID\": 0,\n    \"MunicipalityID\": 0,\n    \"PlaceName\": null,\n    \"Scope\": null,\n    \"Budget\": null,\n    \"Forecast\": null,\n    \"YTDActual\": null,\n    \"GPSLatitude\": null,\n    \"GPSLongitude\": null,\n    \"PASTAT\": 1,\n    \"Region\": \"GP\",\n    \"DistrictID\": 0,\n    \"DistrictName\": \"--None--\",\n    \"MunicipalityName\": \"--None--\",\n    \"Programme\": {\n      \"Number\": \"DCS02GAUN  \",\n      \"Name\": \"GIAMA Audit List Phase1        \",\n      \"ID\": \"GAUN           \",\n      \"Amount\": 0,\n      \"StartDate\": \"2013-04-01T00:00:00\",\n      \"EndDate\": \"2014-03-31T00:00:00\",\n      \"SourceDatabase\": \"GAUP\",\n      \"StatusID\": 0,\n      \"StageID\": 0,\n      \"TypeID\": 0,\n      \"PortfolioID\": 0,\n      \"ProgrammeBudget\": null,\n      \"ProgrammeScope\": null,\n      \"PASTAT\": 1,\n      \"Region\": {\n        \"RegionCode\": \"GP\",\n        \"Name\": \"Gauteng\"\n      },\n      \"Portfolio\": {\n        \"PortfolioID\": 0,\n        \"Name\": \"Unassigned\"\n      },\n      \"ProgrammeType\": {\n        \"ProgrammeTypeID\": 0,\n        \"Name\": \"Unassigned\"\n      },\n      \"Status\": {\n        \"StatusID\": 0,\n        \"Name\": \"Unassigned\"\n      },\n      \"Stage\": {\n        \"StageID\": 0,\n        \"Name\": \"Not Loaded\",\n        \"AllowProgramme\": true,\n        \"AllowProject\": true\n      },\n      \"GPStatus\": {\n        \"StatusID\": 1,\n        \"Name\": \"Open\"\n      }\n    },\n    \"Stage\": {\n      \"StageID\": 0,\n      \"Name\": \"Not Loaded\",\n      \"AllowProgramme\": true,\n      \"AllowProject\": true\n    },\n    \"GPStatus\": {\n      \"StatusID\": 1,\n      \"Name\": \"Open\"\n    }\n  }\n]\n",
+			"settings":
+			{
+				"buffer_size": 13289,
+				"line_ending": "Windows",
+				"name": "["
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inde",
+				"Indent JSON"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Indent JSON"
+			],
+			[
+				"",
+				"Indent JSON"
+			],
+			[
+				"in\\",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"inden",
+				"Indent XML"
+			],
+			[
+				"inder",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"\\",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"i",
+				"Indent XML"
+			],
+			[
+				"com",
+				"Compare with..."
+			],
+			[
+				"indent",
+				"Indent XML"
+			],
+			[
+				"vmen",
+				"View: Toggle Menu"
+			],
+			[
+				"indern",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"case",
+				"Convert Case: Upper Case"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"ackage",
+				"Package Control: List Packages"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"keys",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"sett",
+				"Preferences: Settings - Default"
+			],
+			[
+				"settings",
+				"Preferences: Settings - User"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 438.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Source/Training/Shawpify/practicals/cookies",
+		"/D/Source/Training/Shawpify/practicals/php1",
+		"/D/Source/Training/Shawpify/practicals/php1/class"
+	],
+	"file_history":
+	[
+		"/D/Source/Training/Shawpify/practicals/cookies/index.php",
+		"/D/Source/Training/Shawpify/practicals/cookies/endsession.php",
+		"/D/Source/Training/Shawpify/practicals/cookies/startsession.php",
+		"/D/Source/Training/Shawpify/practicals/cookies/members.php",
+		"/D/Source/Training/Shawpify/practicals/php1/index.php",
+		"/D/Source/Training/Shawpify/practicals/php1/class/Person.php",
+		"/D/Source/Training/Shawpify/practicals/php1/class/Student.php",
+		"/D/Source/Training/Shawpify/practicals/php1/class/SuperDateTime.php",
+		"/D/Source/Training/Shawpify/practicals/php1/Person.php",
+		"/D/Source/Training/Shawpify/practicals/php1/Student.php",
+		"/D/Source/Workspaces/Kalina Power/Development/Website/contact-post/index.php",
+		"/W/Turnbuckle/Security/GlobalGeothermal.txt",
+		"/D/Source/Testing/test/index.html",
+		"/D/Source/Testing/test/web.config",
+		"/W/Turnbuckle/Security/Project IMS.txt",
+		"/D/Source/Training/Shawpify/shawpify.localhost/index.php",
+		"/D/Source/Training/Shawpify/shawpify.localhost/js/app.js",
+		"/D/Source/Training/Shawpify/shawpify.localhost/styles/shawpify.less",
+		"/D/Source/Training/Shawpify/shawpify.localhost/inc/productimages.php",
+		"/D/Source/Training/Shawpify/shawpify.localhost/scripts/app.js",
+		"/D/Source/Training/Shawpify/shawpify.localhost/scripts/product.js",
+		"/D/Source/Training/ShawCanvas/ShawCanvas/canvas/presets.js",
+		"/D/Source/Training/ShawCanvas/ShawCanvas/canvas/index.html",
+		"/D/Source/Training/ShawCanvas/ShawCanvas/canvas/index,html",
+		"/D/Source/Repos/RentaStore.Booking/Web.config.MW",
+		"/D/Source/Workspaces/IDT PMS/wwwroot/app/documentation/readme.md",
+		"/D/My Folders/Desktop/Angle/backend-angular/master/js/modules/routes/routes.config.js",
+		"/D/Source/Repos/RentaStore.Booking/Web.config",
+		"/D/Source/Repos/RentaStore.Booking/debug/AdminX.xml",
+		"/C/Users/matthew.walker/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/ZBE2IW2X/Institutes.txt",
+		"/C/Users/matthew.walker/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/ZBE2IW2X/details.txt",
+		"/C/Users/matthew.walker/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/ZBE2IW2X/details (002).txt",
+		"/C/Users/matthew.walker/AppData/Local/Temp/scp45268/var/www/vsb/bridge/post.php",
+		"/C/Users/matthew.walker/AppData/Local/Temp/scp08061/var/www/vsb/bridge/settings.php",
+		"/W/MetCI/Documents/Notes.txt",
+		"/C/Users/matthew.walker/AppData/Local/Temp/fz3temp-2/academiclist.php",
+		"/D/Source/Workspaces/VSB/VSB/Views/Home/academiclist.php",
+		"/W/Turnbuckle/Security/Turnbuckle.txt",
+		"/C/Users/matthew.walker/AppData/Local/Temp/fz3temp-2/email_management.php",
+		"/C/Users/matthew.walker/AppData/Local/Temp/fz3temp-2/contact.php",
+		"/C/Users/matthew.walker/AppData/Local/Temp/fz3temp-2/book_online.php",
+		"/C/Users/matthew.walker/AppData/Local/Temp/fz3temp-2/book_now_confirmation.php",
+		"/C/Users/matthew.walker/AppData/Local/Temp/fz3temp-2/mainlog.1",
+		"/C/Users/matthew.walker/AppData/Local/Temp/fz3temp-2/mainlog",
+		"/C/Users/matthew.walker/AppData/Local/Temp/fz3temp-2/mainlog.2.gz",
+		"/C/Users/matthew.walker/AppData/Local/Temp/fz3temp-2/mail.log.2.gz",
+		"/D/My Folders/Desktop/mail.log",
+		"/C/Users/matthew.walker/AppData/Local/Temp/fz3temp-2/mail.log.1",
+		"/D/My Folders/Desktop/bookshelf/updates/Copy of 031216.txt",
+		"/C/Users/matthew.walker/AppData/Local/Temp/fz3temp-2/_settings 2.php",
+		"/C/Users/matthew.walker/AppData/Local/Temp/fz3temp-2/_settings.php",
+		"/D/Source/Workspaces/IDTDashboard2.0/IDTDashboard2.0.sln",
+		"/W/HSBC/wwwroot/www.hsbc.dev.local/HSBC.SLN",
+		"/D/Source/Workspaces/Convergence Partners/ConvergencePartners/App_Data/Cache/Content/805cc121-db0c-4325-96ea-23e0dbeba931-190x190",
+		"/D/Source/Workspaces/Convergence Partners/ConvergencePartners/App_Data/Logs/Log.txt",
+		"/W/Turnbuckle/Security/BathroomButler.txt",
+		"/W/HSBC/wwwroot/www.hsbc.dev.local.sln",
+		"/C/Users/matthew.walker/AppData/Local/Temp/7zOC6D7113F/DisplayX.xml",
+		"/D/Source/Repos/MetCI Web App/templates/Default/Panther/DisplayX.xml",
+		"/C/Users/matthew.walker/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/ZBE2IW2X/email.txt",
+		"/C/Users/matthew.walker/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/ZBE2IW2X/email (002).txt",
+		"/D/My Folders/Desktop/test.html",
+		"/D/Source/Workspaces/Global Geothermal/web.config",
+		"/D/My Folders/Desktop/bookshelf/updates/Copy of 091116.txt",
+		"/D/Source/Workspaces/Global Geothermal/www.globalgeothermal.com/web.config",
+		"/C/Users/matthew.walker/AppData/Local/Temp/fz3temp-2/web.config",
+		"/D/Source/Repos/MicrosSpawtz/.gitignore",
+		"/D/Source/Workspaces/Global Geothermal/www.globalgeothermal.com/updates/TextFile.txt",
+		"/D/Source/Workspaces/Kalina Power/Development/RSS/rss.xml",
+		"/D/My Folders/Desktop/sites.xml",
+		"/D/My Folders/Desktop/bookshelf/updates/Copy of 21116.txt",
+		"/D/My Folders/Desktop/controllers.js.txt",
+		"/D/Source/Repos/MicrosSpawtz/Webservice/data/blogx.xml",
+		"/D/Source/Repos/MicrosSpawtz/Webservice/data/MicrosSpawtz.xml",
+		"/W/Project IMS/wwwroot/ims.co.za/web.config",
+		"/W/Project IMS/README.txt",
+		"/D/Source/Repos/ProjectIMS/ProjectIMS.sln",
+		"/X/MapData/DrupalTest/drupal.html",
+		"/X/MapData/DrupalTest/Content/app.js",
+		"/D/My Folders/Desktop/bookshelf/updates/Copy of 271016.txt",
+		"/D/My Folders/Desktop/bookshelf/updates/201016.txt",
+		"/X/MapData/datasets/Archive/bankpricing/index.html",
+		"/X/MapData/datasets/Archive/bankpricing/main.js",
+		"/X/MapData/DrupalTest/index.html",
+		"/D/My Folders/Desktop/bookshelf/updates/111016.txt",
+		"/S/fonts/Adobe Font Folio Fonts/Helvetica Neue Extended 3/README.TXT",
+		"/S/fonts/Adobe Type Basics Fonts/readme.txt",
+		"/D/My Folders/Desktop/bookshelf/updates/061016.txt",
+		"/D/My Folders/Downloads/f.txt",
+		"/W/MetCI/GWSoft Test/Update/forms.metci.co.za/Web.config",
+		"/D/My Folders/Desktop/bookshelf/updates/031016.txt",
+		"/D/Source/Virtual/METCI/FundData/FactSheets.xml",
+		"/D/Source/Virtual/METCI/FundData/FundIndex.xml",
+		"/W/MetCI/GWSoft Test/web.config",
+		"/W/MetCI/GWSoft Test/Metci/web.config",
+		"/D/Source/Workspaces/MetCI Forms/METCI/METCI/Web.config",
+		"/C/Users/matthew.walker/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/5RFTDX9S/email (002).txt",
+		"/C/Users/matthew.walker/AppData/Local/Temp/fz3temp-1/Web.config",
+		"/D/My Folders/Desktop/FW MET Collective Investments.txt",
+		"/W/Computicket/Flash element/var/www/computicket/bl/app/flash/mini_seating/seating_plan Report.txt",
+		"/X/MapData/DrupalTest/Content/sdg.csv",
+		"/D/Source/Workspaces/UNCDF/UNCDF/MapData/data/findex.csv",
+		"/D/My Folders/Desktop/bookshelf/updates/130916.txt",
+		"/D/My Folders/Desktop/bookshelf/updates/230916 (002).txt",
+		"/D/My Folders/Desktop/bookshelf/updates/120816.txt",
+		"/D/My Folders/Desktop/bookshelf/updates/Copy of 210916.txt",
+		"/D/My Folders/Desktop/bookshelf/updates/Copy of 200916B.txt",
+		"/D/My Folders/Desktop/bookshelf/updates/Copy of 190916.txt",
+		"/D/My Folders/Desktop/bookshelf/updates/Copy of 230816-4.txt",
+		"/D/My Folders/Desktop/bookshelf/updates/Copy of 230816-5.txt",
+		"/D/My Folders/Desktop/bookshelf/updates/Copy of 020916.txt",
+		"/C/Users/matthew.walker/AppData/Local/Temp/Temp1_2016-Ascendis_Health_invite-v5_Folder.zip/2016-Ascendis_Health_invite-v5_Folder/2016-Ascendis_Health_invite-v5 Report.txt",
+		"/D/My Folders/Desktop/bookshelf/updates/Copy of 080916.txt",
+		"/D/My Folders/Desktop/bookshelf/updates/Copy of 120916.txt",
+		"/D/My Folders/Desktop/article.html",
+		"/D/Source/Repos/RentaStore.Booking/Live.config",
+		"/D/Source/Repos/RentaStore.Booking/Stage.config",
+		"/D/My Folders/Desktop/popup.html",
+		"/D/My Folders/Desktop/bookshelf/updates/Copy of 160816.txt",
+		"/D/My Folders/Desktop/bookshelf/updates/Copy of 020816.txt",
+		"/D/My Folders/Desktop/bookshelf/updates/Copy of 050816.txt",
+		"/C/Users/matthew.walker/AppData/Local/Temp/fz3temp-1/Copy of 050816.txt",
+		"/D/My Folders/Desktop/NorthStar.html",
+		"/D/My Folders/Desktop/test.txt",
+		"/D/Source/Repos/MetCI Web App/templates/Default/Panther/Factsheets.xsl",
+		"/D/Testing/MetCI Test/templates/Default/Panther/Factsheets.xsl",
+		"/D/My Folders/Desktop/bookshelf updates/290716 (002).txt",
+		"/D/My Folders/Desktop/bookshelf updates/Copy of 010816.txt"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"<project>",
+			"\\\\TBSV02\\Clients\\Alexander Forbes - LifeGauge\\LifeGauge\\LifeGaugeWWW",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"`",
+			"\"",
+			"'",
+			"carousel-example-generic",
+			"router",
+			"loading",
+			"ICS",
+			"\"\"",
+			"\",\"",
+			"departments'",
+			"`",
+			"\"",
+			"Undergraduate",
+			"matthe",
+			"->",
+			"send",
+			"semd",
+			"pop ",
+			"truffle ",
+			"2016",
+			"2016(",
+			"2016",
+			"2015",
+			"Visual C++ cache files",
+			"w:\\",
+			"d:\\",
+			"w:\\",
+			"Les petites pattes doivent faire être orientées vers le bas, comme des pattes au sol.",
+			"Pour optimiser le séchage, nous recommandons que la serviette soit pliée deux fois, créant 4 couches, avant de l'étendre sur une barre horizontale du porte-serviettes chauffant en pliant la serviette en 4 couches, la chaleur est coincée sous la serviette qui s'étend tranquillement entre les couches de la serviette et la sèche plus rapidement et efficacement, tout en fournissant une belle.",
+			"Si vous posez de la nouvelle céramique dans votre salle de bain, il est toujours mieux de retirer d'abord toutes les accessoires et les raccords d'acier inoxydable et de les réinstaller uniquement quand le coulis a été appliqué et que l'excès a été enlevé.",
+			"L'utilisation principale des porte-serviettes chauffants et de sécher les serviettes",
+			"  ",
+			"`",
+			"malaw",
+			"`",
+			"\"",
+			"`",
+			"\"",
+			"`",
+			"\"",
+			"`",
+			"\"",
+			"'",
+			"'sdg'",
+			"},\"",
+			"\"{",
+			"\"s",
+			"'",
+			"\"",
+			"Proportion of population below national poverty line",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"bot",
+			"MOZ",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"]",
+			"'",
+			"\"",
+			"]",
+			"incomeDistribution\": [",
+			"'",
+			"\"",
+			"'",
+			"div"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\"",
+			"`",
+			"\"\"",
+			"\"",
+			"carousel",
+			"\",",
+			"\"departments\"",
+			"\"",
+			"",
+			"\n",
+			"Les petites pattes doivent être orientées vers le bas, comme des pattes au sol.",
+			"Pour optimiser le séchage, nous recommandons que la serviette soit pliée deux fois, créant 4 couches, avant de l'étendre sur une barre horizontale du porte-serviettes chauffant. En pliant la serviette en 4 couches, la chaleur est coincée sous la serviette qui s'étend tranquillement entre les couches de la serviette et la sèche plus rapidement et efficacement, tout en fournissant une belle chaleur.",
+			"Si vous posez de la nouvelle céramique dans votre salle de bain, il est toujours mieux de retirer d'abord tous les accessoires et les raccords d'acier inoxydable et de les réinstaller uniquement quand le coulis a été appliqué et que l'excès a été enlevé.",
+			"L'utilisation principale des porte-serviettes chauffants est de sécher les serviettes",
+			" ",
+			"\"",
+			"",
+			"\"",
+			"'",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"\"sdg\"",
+			"},",
+			"{",
+			"'s",
+			"\"",
+			"",
+			"\"",
+			"",
+			"'",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"'",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"\"",
+			"",
+			"],",
+			"\"",
+			"",
+			"],",
+			"\"incomeDistribution\": [",
+			"\"",
+			"",
+			"\"",
+			"td",
+			"_",
+			"<a href=\"http://www.metci.co.za\">www.metci.co.za</a>",
+			"h3>",
+			"},",
+			"{",
+			"\"",
+			"},",
+			"\"",
+			"{",
+			"},",
+			"{",
+			"\"",
+			"<a href=\"http://www.metci.co.za\">www.metci.co.za</a>",
+			"}, ",
+			"},             {",
+			"            {",
+			"{",
+			"}, ",
+			"{",
+			"},",
+			"{"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13289,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								455,
+								455
+							]
+						],
+						"settings":
+						{
+							"auto_name": "[",
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7266.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "shaw.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"include/conn",
+				"include/conn.php"
+			],
+			[
+				"contact",
+				"wwwroot/contact.php"
+			],
+			[
+				"book",
+				"wwwroot/book_now.php"
+			],
+			[
+				"inde",
+				"wwwroot/index.php"
+			],
+			[
+				"conta",
+				"wwwroot/contact.php"
+			],
+			[
+				"style",
+				"wwwroot/css/first/style.css"
+			],
+			[
+				"footer",
+				"include/footer.php"
+			],
+			[
+				"we",
+				"include/website.php"
+			],
+			[
+				"tools",
+				"wwwroot/scripts/jquery.tools.min.js"
+			],
+			[
+				"cent",
+				"wwwroot/locations_centurion.php"
+			],
+			[
+				"web",
+				"include/website.php"
+			],
+			[
+				"test",
+				"/C/Users/Daniel.Walker/AppData/Local/Temp/scp19209/var/www/rentastore.co.za/wwwroot/testemail.php"
+			],
+			[
+				"jq",
+				"wwwroot/scripts/jquery-1.6.min.js"
+			],
+			[
+				"webs",
+				"include/website.php"
+			],
+			[
+				"teste",
+				"/C/Users/Daniel.Walker/AppData/Local/Temp/scp19209/var/www/rentastore.co.za/wwwroot/testemail.php"
+			],
+			[
+				"css",
+				"wwwroot/css/first/style.css"
+			],
+			[
+				"em",
+				"include/email.php"
+			],
+			[
+				"",
+				"wwwroot/css/first/style.css"
+			],
+			[
+				".css",
+				"wwwroot/css/first/style.css"
+			],
+			[
+				".cs",
+				"wwwroot/css/first/style.css"
+			],
+			[
+				"pro",
+				"include/promotions.php"
+			],
+			[
+				".c",
+				"wwwroot/css/first/style.css"
+			],
+			[
+				"ema",
+				"include/email.php"
+			],
+			[
+				"loca",
+				"wwwroot/locations_jhb_honeydew.php"
+			],
+			[
+				"index",
+				"wwwroot/index.php"
+			],
+			[
+				"book_",
+				"wwwroot/book_now.php"
+			],
+			[
+				"capt",
+				"include/captcha.php"
+			],
+			[
+				"lo",
+				"include/locations_overlays.php"
+			],
+			[
+				"contac",
+				"wwwroot/contact_confirmation.php"
+			],
+			[
+				"enq",
+				"wwwroot/enquiry_confirmation.php"
+			],
+			[
+				"proo",
+				"include/promotions.php"
+			],
+			[
+				"re",
+				"include/rental-email.php"
+			],
+			[
+				"con",
+				"wwwroot/contact.php"
+			],
+			[
+				"bo",
+				"wwwroot/book_now.php"
+			],
+			[
+				"locations_e",
+				"wwwroot/locations_east_rand.php"
+			],
+			[
+				"locations_h",
+				"wwwroot/locations_jhb_honeydew.php"
+			],
+			[
+				"locatio",
+				"wwwroot/locations_sandton.php"
+			],
+			[
+				"location",
+				"wwwroot/locations_pretoria.php"
+			],
+			[
+				"foo",
+				"include/footer.php"
+			],
+			[
+				"in",
+				"wwwroot/index.php"
+			],
+			[
+				"location_ce",
+				"wwwroot/locations_centurion.php"
+			],
+			[
+				"doubler",
+				"js/template/DoubleRingChart.html"
+			],
+			[
+				"app",
+				"js/app.js"
+			],
+			[
+				"compo",
+				"js/components.js"
+			],
+			[
+				"partials",
+				"admin/partials/users.html"
+			],
+			[
+				"ap",
+				"js/app.js"
+			],
+			[
+				"nrr",
+				"Admin\\js\\ng\\Other\\nrrCalculations.js"
+			],
+			[
+				"cret",
+				"js\\template\\cRetirementStatisticsInfographics.html"
+			],
+			[
+				"sce",
+				"js\\template\\cScenarioSettings.html"
+			],
+			[
+				"retire",
+				"js\\template\\cRetirementStatisticsInfographics.html"
+			],
+			[
+				"cpa",
+				"js\\template\\cPanelSelector.html"
+			],
+			[
+				"grap",
+				"js\\graph.js"
+			],
+			[
+				"double",
+				"js\\template\\DoubleRingChart.html"
+			],
+			[
+				"retirement",
+				"js\\template\\RetirementAgeDiagram.html"
+			],
+			[
+				"c",
+				"js\\template\\cFundSettingsInfographic.html"
+			],
+			[
+				"fun",
+				"js\\fundgroups.js"
+			],
+			[
+				"cfun",
+				"js\\template\\cFundSettingsInfographic.html"
+			],
+			[
+				"cpan",
+				"js\\template\\cPanelSelector.html"
+			],
+			[
+				"pres",
+				"partials\\presentation.html"
+			],
+			[
+				"cf",
+				"js\\template\\cFundSettingsInfographic.html"
+			],
+			[
+				"prese",
+				"partials\\presentation.html"
+			],
+			[
+				"graph.",
+				"js\\graph.js"
+			],
+			[
+				"app.",
+				"js\\app.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 137.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
